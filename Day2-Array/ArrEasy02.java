@@ -1,3 +1,4 @@
+// Move all zeros to end of array
 public class ArrEasy02 {
     public static void pushZeroToEnd(int []arr){
         int count = 0;

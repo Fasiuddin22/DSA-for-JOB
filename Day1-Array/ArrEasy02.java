@@ -1,4 +1,5 @@
 // package CodeBasicsForJOB.Day1;/
+// Third largest element in an array of distinct elements
 
 public class ArrEasy02 {
     public static int getThirdElement(int []arr) {
