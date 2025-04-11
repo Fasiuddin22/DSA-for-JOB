@@ -4,6 +4,7 @@
 public class ArrEasy02 {
     public static int getThirdElement(int []arr) {
         int n = arr.length;
+        
         int first = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
             if (arr[i] > first){
@@ -28,7 +29,7 @@ public class ArrEasy02 {
     public static void main(String[] args) {
         int[] arr = {12, 35, 1, 10, 34, 1};
         int[] arr1 = {12, 12, 13};
-        int[] arr2 = {12, 12, 12};
+        int[] arr2 = {1,2};
         System.out.println(getThirdElement(arr2));
     }
 }

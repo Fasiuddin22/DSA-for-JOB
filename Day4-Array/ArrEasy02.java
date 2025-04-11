@@ -1,4 +1,4 @@
-// package Day4-Array;
+// package Day4-Array; // Not array
 // Finding sum of digits of a number until sum becomes single digit
 public class ArrEasy02 {
     public static int singleDigit(int n){
